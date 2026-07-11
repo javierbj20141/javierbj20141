@@ -1,4 +1,4 @@
-# Hola, soy Javier Bartolomé 👋
+# Hola, soy Javier Bartolomé Jalvo 👋
 
 Profesional con experiencia en reporting, análisis de datos, PMO ,y gestión financiera de proyectos.
  
@@ -15,17 +15,22 @@ En este perfil comparto algunos de los proyectos realizados durante mi formació
 - DAX
 - Power Query
 
+
 **Certificaciones**:
+
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Business Mentor Madrid+d
 - C1 en Inglés
+
  
 **Áreas de interés**:
+  
 - Data Analytics
 - Business Intelligence
 - Reporting
 - Visualización de datos
 - Análisis orientado a negocio
+
  
 **Contacto**:
 - LinkedIn: www.linkedin.com/in/javier-bartolomé-jalvo-04332617a
